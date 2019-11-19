@@ -1,9 +1,9 @@
 import React from 'react';
-import './App.scss'
+import './App.scss';
 
-import Header from './Header'
-import Router from './Router'
-import Footer from './Footer'
+import Header from './Header';
+import Router from './Router';
+import Footer from './Footer';
 
 function App() {
   return (
